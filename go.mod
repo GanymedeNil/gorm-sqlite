@@ -1,8 +1,8 @@
-module github.com/cloudquery/sqlite
+module github.com/GanymedeNil/gorm-sqlite
 
 go 1.14
 
 require (
-	gorm.io/gorm v1.20.12
-	modernc.org/sqlite v1.8.8
+	gorm.io/gorm v1.24.5
+	modernc.org/sqlite v1.20.4
 )
